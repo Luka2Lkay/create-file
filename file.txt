@@ -1,0 +1,16 @@
+My name: Themba
+My surname: Moyo
+my age: 20
+
+My name: John
+My surname: Smith
+my age: 30
+
+My name: Lihle
+My surname: Jack
+my age: 15
+
+My name: Zethu
+My surname: Khumalo
+my age: 12
+
